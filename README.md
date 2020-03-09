@@ -5,6 +5,7 @@ Results of writing an oracle for the OpenAI Gym environment, "Freeway"
 - James S. Plank
 - jplank@utk.edu
 - EECS Department, University of Tennessee
+- March, 2019
 
 This repo contains the results of writing an oracle for the "Freeway"
 environment from OpenAI Gym.  
